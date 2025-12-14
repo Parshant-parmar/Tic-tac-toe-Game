@@ -106,7 +106,17 @@ color:  rgb(255, 255, 255);
   font-weight: 600;
 
 }
- 
+
+#back{
+  margin-top: 2%;
+margin-right: 90%;
+background-color: #C9ADA7;
+padding: 0.85rem;
+font-size: 1rem;
+border-radius: 0.85rem;
+color:#22223B ;
+border: none;
+ }
  .msgcontainer{
     display: flex;
     justify-content: center;
